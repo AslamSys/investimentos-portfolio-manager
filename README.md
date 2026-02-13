@@ -1,5 +1,19 @@
 # 💼 Portfolio Manager
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Investimentos (RPi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/investimentos/README.md)** → **investimentos-portfolio-manager**
+
+### Containers Relacionados (investimentos)
+- [investimentos-brain](https://github.com/AslamSys/investimentos-brain)
+- [investimentos-trading-bot](https://github.com/AslamSys/investimentos-trading-bot)
+- [investimentos-technical-analysis](https://github.com/AslamSys/investimentos-technical-analysis)
+- [investimentos-news-sentiment](https://github.com/AslamSys/investimentos-news-sentiment)
+- [investimentos-betting-bot](https://github.com/AslamSys/investimentos-betting-bot)
+- [investimentos-ml-predictor](https://github.com/AslamSys/investimentos-ml-predictor)
+
+---
+
 **Container:** `portfolio-manager`  
 **Stack:** Python + pandas  
 **Propósito:** Gestão e rebalanceamento de carteira
@@ -102,6 +116,20 @@ def rebalance_portfolio(current_holdings, target_allocation, total_value):
     return rebalance_orders
 
 # Calculate Sharpe Ratio
+
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Investimentos (RPi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/investimentos/README.md)** → **investimentos-portfolio-manager**
+
+### Containers Relacionados (investimentos)
+- [investimentos-brain](https://github.com/AslamSys/investimentos-brain)
+- [investimentos-trading-bot](https://github.com/AslamSys/investimentos-trading-bot)
+- [investimentos-technical-analysis](https://github.com/AslamSys/investimentos-technical-analysis)
+- [investimentos-news-sentiment](https://github.com/AslamSys/investimentos-news-sentiment)
+- [investimentos-betting-bot](https://github.com/AslamSys/investimentos-betting-bot)
+- [investimentos-ml-predictor](https://github.com/AslamSys/investimentos-ml-predictor)
+
+---
 def sharpe_ratio(returns, risk_free_rate=0.02):
     excess_returns = returns - risk_free_rate / 252  # Daily risk-free rate
     return np.sqrt(252) * excess_returns.mean() / excess_returns.std()
