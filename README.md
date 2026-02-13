@@ -2,7 +2,7 @@
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Investimentos (RPi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/investimentos/README.md)** → **investimentos-portfolio-manager**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Investimentos (RPi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/investimentos%20-%20(raspberry-pi-5-16gb)/README.md)** → **investimentos-portfolio-manager**
 
 ### Containers Relacionados (investimentos)
 - [investimentos-brain](https://github.com/AslamSys/investimentos-brain)
@@ -119,7 +119,7 @@ def rebalance_portfolio(current_holdings, target_allocation, total_value):
 
 ## 🔗 Navegação
 
-**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Investimentos (RPi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/investimentos/README.md)** → **investimentos-portfolio-manager**
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Investimentos (RPi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/investimentos%20-%20(raspberry-pi-5-16gb)/README.md)** → **investimentos-portfolio-manager**
 
 ### Containers Relacionados (investimentos)
 - [investimentos-brain](https://github.com/AslamSys/investimentos-brain)
